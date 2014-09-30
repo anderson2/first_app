@@ -1,3 +1,12 @@
+# Ruby on Rails Tutorial: first application
+
+Tutorial available at http://railstutorial.org/
+
+
+
+---
+original text
+
 == README
 
 This README would normally document whatever steps are necessary to get the
